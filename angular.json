@@ -24,6 +24,11 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/@swimlane/ngx-datatable/index.css",
+              "node_modules/@swimlane/ngx-datatable/themes/bootstrap.css",
+              "node_modules/@swimlane/ngx-datatable/themes/dark.css",
+              "node_modules/@swimlane/ngx-datatable/assets/icons.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +124,7 @@
           }
         }
       }
-    }},
+    }
+  },
   "defaultProject": "simple-invoicesss"
 }
